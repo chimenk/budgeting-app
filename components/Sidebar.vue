@@ -1,5 +1,5 @@
 <template>
-	<div class="main-sidebar">
+	<div class="main-sidebar sidebar-style-2">
       <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
           <a href="index.html">Stisla</a>
