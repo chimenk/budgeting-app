@@ -15,15 +15,15 @@ export default {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     script: [
-      { src: 'modules/jquery.min.js' },
-      { src: 'modules/popper.js' },
-      { src: 'modules/tooltip.js' },
-      { src: 'modules/bootstrap/js/bootstrap.min.js' },
-      { src: 'modules/nicescroll/jquery.nicescroll.js' },
-      { src: 'modules/moment.min.js' },
-      { src: 'js/stisla.js' },
-      { src: 'js/scripts.js' },
-      { src: 'js/custom.js' }
+      { src: '/modules/jquery.min.js' },
+      { src: '/modules/popper.js' },
+      { src: '/modules/tooltip.js' },
+      { src: '/modules/bootstrap/js/bootstrap.min.js' },
+      { src: '/modules/nicescroll/jquery.nicescroll.js' },
+      { src: '/modules/moment.min.js' },
+      { src: '/js/stisla.js' },
+      { src: '/js/scripts.js' },
+      { src: '/js/custom.js' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
